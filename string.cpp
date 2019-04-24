@@ -5,7 +5,6 @@ int main()
 {
 	string first_name;
 	string Last_name;
-	string ful_name;
 	cout<<"enter your full name";
 	cin>>first_name>>Last_name;
 	if(first_name=="jyoti"||first_name=="JYOTI")
